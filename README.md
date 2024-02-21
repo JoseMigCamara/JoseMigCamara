@@ -4,7 +4,7 @@ Web Developer, Designer, Multimedia Technician
 ----------------------------------------------  
 * 🌍  I'm based in Azores, Ponta Delgada  
 * ✉️  You can contact me at [miguelcamara121@gmail.com](mailto:miguelcamara121@gmail.com)  
-* 🧠  I'm learning Management of Networks and Computer Systems | ENTA  
+* 🧠  Multimedia Technician and Higher Technician in Network and Systems Management  
 
 <a href="https://www.github.com/JoseMigCamara" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/JoseMigCamara?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
